@@ -1,0 +1,10 @@
+export const AUTH_SIGN_UP = "AUTH_SIGN_UP";
+export const AUTH_LOG_OUT = "AUTH_LOG_OUT";
+export const AUTH_ERROR = "AUTH_ERROR";
+export const AUTH_SIGN_IN = "AUTH_SIGN_IN";
+export const BOOK_RENTAL = "BOOK_RENTAL";
+export const CANCEL_RENTAL = "CANCEL_RENTAL";
+export const RENTALS_ERROR = "RENTALS_ERROR";
+export const RENTALS_SEARCH = "RENTALS_SEARCH";
+export const ADMIN_LOGIN = "ADMIN_LOGIN";
+export const ADMIN_LOGIN_ERROR = "ADMIN_LOGIN_ERROR";
